@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SInuMKysq7xi6UDE2gcRbOgbt5sv8Vd5W/4UGt9DU5xU66a8PSjX023UcGvXwFlgNZxOi+C0GveaVsyuvT25cQ==",
+  "success": true,
+  "projectFilePath": "E:\\github\\SarinaCrm\\SarinaCrm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hechd\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}
